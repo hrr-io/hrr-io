@@ -4,7 +4,22 @@
 
 <!-- # 👾 Hasibur Rahman -->
 ## **`Digital Craftsman`**
-<p align="center">
+<details>
+<summary><b>About me!</b></summary>
+
+### - I'm 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- Data Structures & Algorithms
+- Generative Adversarial Networks
+
+### - Hobbies : 
+- Love Gaming
+- Watching Anime
+
+<p align="left">
   <a href="https://www.linkedin.com/in/hrrryuk">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;&nbsp;
@@ -15,6 +30,8 @@
     <img src="https://img.shields.io/badge/Send%20Message-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+</details>
 
 ---
 
