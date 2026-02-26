@@ -10,17 +10,14 @@
   </a>
 </p>
 
-<table style="width:100%">
-  <tr>
-    <th style="width:50%">Header 1</th>
-    <th style="width:50%">Header 2</th>
-  </tr>
-  <tr>
-    <td>Cell 1 content</td>
-    <td>Cell 2 content</td>
-  </tr>
-  <tr>
-    <td>Cell 3 content</td>
-    <td>Cell 4 content</td>
+<table width="100%">
+  <tr styele="border-top: 0px;">
+    <th width="50%" align="left" verticle-align="baseline">
+      <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp
+      <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+    </th>
+    <th width="50%" align="right">
+      <a href="mailto:hrifat2320004@bscse.uiu.ac.bd"><img src="https://img.shields.io/badge/Send%20Message-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    </th>
   </tr>
 </table>
