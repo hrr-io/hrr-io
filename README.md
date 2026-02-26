@@ -54,9 +54,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase,gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
   </a>
   <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase,gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
-  </a>
 </p>
 
 
