@@ -56,4 +56,36 @@
   <br>
 </p>
 
+---
 
+## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> LeetCode Stats
+
+<div align="center">
+  <img src="https://github.com/dhruvin-sarkar/dhruvin-sarkar/blob/main/img/Leetcode.png" alt="LeetCode Profile" width="90%" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> GitHub Stats
+
+<div align="center">
+  <table>
+    <tr></tr>
+      <td width="40%" align="center" valign="top">
+        <img src="https://github.com/dhruvin-sarkar/dhruvin-sarkar/blob/main/img/image.png" alt="ASCII Art Portrait" width="95%" />
+      </td>
+      <td width="60%" align="center" valign="top">
+        <h3>📊 GitHub Streak</h3>
+        <a href="https://git.io/streak-stats">
+          <img src="https://nirzak-streak-stats.vercel.app?user=dhruvin-sarkar&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<p align="center"><b>on a mission</b></p>
+
+---
