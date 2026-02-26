@@ -3,17 +3,17 @@
 </p>
 
 <!-- # 👾 Hasibur Rahman -->
-## **`Digital Craftsman`**
+### **`Digital Craftsman`**
 <details>
-<summary><b>About me!</b></summary>
+<summary></summary>
 
 ### - I'm 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- Data Structures & Algorithms
-- Generative Adversarial Networks
+- Advanced Data Structures & Algorithms
+- Data Engineering Fundamentals
 
 ### - Hobbies : 
 - Love Gaming
@@ -50,6 +50,10 @@
 
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Tech Stack & Tools
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase,gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
+  </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase,gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
   </a>
