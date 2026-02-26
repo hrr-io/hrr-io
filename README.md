@@ -1,8 +1,10 @@
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/hrr-io/hrr-io/main/hrrryuk_banner.png" />
 </p>
+-->
 
-<!-- # 👾 Hasibur Rahman -->
+# 👾 Hasibur Rahman
 ### **`Digital Craftsman`**
 <details>
 <summary></summary>
@@ -54,6 +56,9 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase,gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
   </a>
   <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase,gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
+  </a>
 </p>
 
 ---
@@ -83,6 +88,12 @@
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ---
 
