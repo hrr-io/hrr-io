@@ -1,14 +1,20 @@
-<p align="center">
-  <img src="https://drive.usercontent.google.com/download?id=1LSuejbfVaPKbo1eZG55CfqKpzEkReT01"/>
-</p>
+<img src="https://drive.usercontent.google.com/download?id=1LSuejbfVaPKbo1eZG55CfqKpzEkReT01"/>
+<h1>
+  <picture>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" width="40">
+  </picture>
+  Hasibur Rahman
+</h1>
 
-# <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" width="40" style="vertical-align:text-bottom;"/></picture> Hasibur Rahman
-### **`Digital Craftsman`**
+**`Digital Craftsman`**
 <details>
 <summary></summary>
-
-### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" style="vertical-align:text-bottom;"/></picture> A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
-
+<h3>
+  <picture>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.gif" width="40">
+  </picture>
+  A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
+</h3>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"><br><br>
 
 ### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" style="vertical-align:text-bottom;"/> Education :
