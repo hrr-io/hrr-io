@@ -9,27 +9,31 @@
 **`Digital Craftsman`**
 <details>
 <summary></summary>
+<!-- INTRO -->
 <h3>
+  <!--
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.gif" width="40">
-  </picture>
+    <img src="" width="40">
+  </picture> -->
   A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 </h3>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"><br><br>
-
-### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" style="vertical-align:text-bottom;"/> Education :
-**B.Sc. in Computer Science & Engineering** <br>
-United International University <br>
-Dhaka, Bangladesh <br>
-2023 – Present
-
-### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.gif" width="30" style="vertical-align:text-bottom;"/></picture> Learning :
-- Advanced Data Structures & Algorithms
-- Data Engineering Fundamentals
-
-### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f988/512.gif" width="30" style="vertical-align:text-bottom;"/></picture> Hobbies :
-- Love Gaming
-- Watching Anime
+<picture>
+  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+</picture>
+<!-- EDUCATION -->
+<h3>
+  <picture>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40">
+  </picture>
+  Education :
+</h3>
+<p>
+  <b>B.Sc. in Computer Science & Engineering</b> <br>
+  United International University <br>
+  Dhaka, Bangladesh <br>
+  2023 – Present
+</p>
+</details>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hrrryuk">
@@ -42,8 +46,6 @@ Dhaka, Bangladesh <br>
     <img src="https://img.shields.io/badge/Send%20Message-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-</details>
 
 ---
 
