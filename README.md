@@ -8,7 +8,11 @@
 
 **`Digital Craftsman`**
 <details>
-<summary></summary>
+<summary>
+  <picture>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40">
+  </picture>
+</summary>
 <!-- INTRO -->
 <h3>
   <picture>
