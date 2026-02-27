@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hrr-io/hrr-io/main/banner_2.png"/>
+  <img src="https://raw.githubusercontent.com/hrr-io/hrr-io/main/banner_3.png"/>
 </p>
 
 
