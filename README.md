@@ -40,7 +40,11 @@
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Languages & IDEs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,php,py"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py"/>
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,mysql,php"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -53,11 +57,11 @@
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase,gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,django,cloudflare,figma,firebase,gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
+    <img src="https://skillicons.dev/icons?i=gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
   </a>
 </p>
 
@@ -88,12 +92,6 @@
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <a href="https://github.com/hrrryuk">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
 ---
 
