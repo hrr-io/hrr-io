@@ -9,7 +9,7 @@
 <details>
 <summary></summary>
 
-### - I'm 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
+### - A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -80,7 +80,7 @@
         <img src="https://github.com/dhruvin-sarkar/dhruvin-sarkar/blob/main/img/image.png" alt="ASCII Art Portrait" width="95%" />
       </td>
       <td width="60%" align="center" valign="top">
-        <h3>📊 GitHub Streak</h3>
+        <h3>&nbsp</h3>
         <a href="https://git.io/streak-stats">
           <img src="https://nirzak-streak-stats.vercel.app?user=dhruvin-sarkar&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
         </a>
