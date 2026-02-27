@@ -4,20 +4,26 @@
 </p>
 -->
 
-# 👾 Hasibur Rahman
+# 👾Hasibur Rahman
 ### **`Digital Craftsman`**
 <details>
 <summary></summary>
 
-### - A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
+### A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### 🎓 Education :
+**B.Sc. in Computer Science & Engineering** <br>
+United International University <br>
+Dhaka, Bangladesh <br>
+2023 – Present
 
 ### - Learning :
 - Advanced Data Structures & Algorithms
 - Data Engineering Fundamentals
 
-### - Hobbies : 
+### - Hobbies :
 - Love Gaming
 - Watching Anime
 
@@ -47,6 +53,13 @@
     <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm"/>
   </a>
 </p>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f605/512.gif" alt="😅" width="32" height="32">
+
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f605/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f605/512.gif" alt="😅" width="32" height="32">
+</picture>
 
 ---
 
