@@ -12,7 +12,7 @@
 <!-- INTRO -->
 <h3>
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f988/512.gif" width="40">
+    <img src="#" width="40">
   </picture>
   A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 </h3>
