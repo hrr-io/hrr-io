@@ -4,12 +4,12 @@
 </p>
 -->
 
-# 👾Hasibur Rahman
-### **`Digital Craftsman`**
+# <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" style="vertical-align:text-bottom;"/></picture> Hasibur Rahman
+### **`Digital Craftsman`** 
 <details>
 <summary></summary>
 
-### A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
+### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" width="40" style="vertical-align:text-bottom;"/></picture> A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -53,13 +53,6 @@ Dhaka, Bangladesh <br>
     <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm"/>
   </a>
 </p>
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f605/512.gif" alt="😅" width="32" height="32">
-
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f605/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f605/512.gif" alt="😅" width="32" height="32">
-</picture>
 
 ---
 
