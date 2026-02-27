@@ -32,6 +32,7 @@
   Dhaka, Bangladesh <br>
   2023 – Present
 </p>
+<hr>
 </details>
 
 <p align="left">
@@ -45,8 +46,7 @@
     <img src="https://img.shields.io/badge/Send%20Message-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
+<hr>
 
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Languages & IDEs
 <p align="center">
