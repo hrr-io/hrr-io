@@ -40,11 +40,11 @@
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Languages & IDEs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,mysql,php"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,php"/>
   </a>
   <br>
   <a href="https://skillicons.dev">
