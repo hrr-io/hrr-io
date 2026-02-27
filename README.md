@@ -11,7 +11,7 @@
 
 ### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" style="vertical-align:text-bottom;"/></picture> A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"><br>
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"><br><br>
 
 ### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" style="vertical-align:text-bottom;"/> Education :
 **B.Sc. in Computer Science & Engineering** <br>
