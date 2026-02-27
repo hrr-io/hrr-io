@@ -32,7 +32,6 @@
   Dhaka, Bangladesh <br>
   2023 – Present
 </p>
-<hr>
 </details>
 
 <p align="left">
