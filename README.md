@@ -4,26 +4,26 @@
 </p>
 -->
 
-# <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40" style="vertical-align:text-bottom;"/></picture> Hasibur Rahman
+# <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" width="40" style="vertical-align:text-bottom;"/></picture> Hasibur Rahman
 ### **`Digital Craftsman`** 
 <details>
 <summary></summary>
 
-### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" width="40" style="vertical-align:text-bottom;"/></picture> A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
+### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30" style="vertical-align:text-bottom;"/></picture> A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif"><br>
 
-### 🎓 Education :
+### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" style="vertical-align:text-bottom;"/> Education :
 **B.Sc. in Computer Science & Engineering** <br>
 United International University <br>
 Dhaka, Bangladesh <br>
 2023 – Present
 
-### - Learning :
+### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.gif" width="30" style="vertical-align:text-bottom;"/></picture> Learning :
 - Advanced Data Structures & Algorithms
 - Data Engineering Fundamentals
 
-### - Hobbies :
+### <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f988/512.gif" width="30" style="vertical-align:text-bottom;"/></picture> Hobbies :
 - Love Gaming
 - Watching Anime
 
