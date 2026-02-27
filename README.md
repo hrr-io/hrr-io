@@ -1,6 +1,6 @@
 <!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hrr-io/hrr-io/main/hrrryuk_banner.png" />
+  <img src="https://raw.githubusercontent.com/hrrryuk/hrrryuk/main/banner.png"/>
 </p>
 -->
 
@@ -90,7 +90,7 @@
 </div>
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://github.com/hrrryuk">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
