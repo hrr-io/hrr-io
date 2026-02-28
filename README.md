@@ -48,30 +48,12 @@ Dhaka, Bangladesh <br>
   <img src="https://img.shields.io/badge/💬%20Send%20Message-C5221F?style=&logo=&logoColor=""></a>
 <hr>
 
-<hr>
-<div align="center">
-  <table>
-    <tr></tr>
-      <td width="40%" align="center" valign="top">
-        <img src="https://github.com/dhruvin-sarkar/dhruvin-sarkar/blob/main/img/image.png" alt="ASCII Art Portrait" width="95%" />
-      </td>
-      <td width="60%" align="center" valign="top">
-        <h3>&nbsp</h3>
-        <a href="https://git.io/streak-stats">
-          <img src="https://nirzak-streak-stats.vercel.app?user=dhruvin-sarkar&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-<hr>
-
-<!-- LANGUAGES & IDE -->
+<!-- ICONS -->
 <h2>
   <picture>
     <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="45" align="middle">
-    Languages & IDEs
   </picture>
+  
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -80,24 +62,6 @@ Dhaka, Bangladesh <br>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm"/>
-  </a>
-</p>
-<hr>
-
-<!-- STACK & TOOLS -->
-<h2>
-  <picture>
-    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="45" align="middle">
-    Tech Stack & Tools
-  </picture>
-</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,cloudflare,figma,firebase"/>
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
   </a>
 </p>
 <hr>
