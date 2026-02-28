@@ -34,19 +34,19 @@
 </p>
 </details>
 
-<div>
+<p>
   <a href="https://www.linkedin.com/in/hrrryuk">
     <picture>
-      <img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></picture></a>
+      <img src="https://img.shields.io/badge/Linkedin-000?style=&logo=&logoColor="></picture></a>
   &nbsp;
   <a href="https://www.instagram.com/hasiibur.hi">
     <picture>
-      <img src="https://img.shields.io/badge/Instagram-D14836?style=flat&logo=linkedin&logoColor=white"></picture></a>
+      <img src="https://img.shields.io/badge/Instagram-000?&style=logo=&logoColor=""></picture></a>
   &nbsp;
   <a href="mailto:hrifat2320004@bscse.uiu.ac.bd">
     <picture>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=linkedin&logoColor=white"></picture></a>
-</div>
+      <img src="https://img.shields.io/badge/✉️%20Send%20Message-000?style=&logo=&logoColor=""></picture></a>
+</p>
 <hr>
 
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Languages & IDEs
