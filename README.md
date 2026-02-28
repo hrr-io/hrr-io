@@ -1,7 +1,7 @@
 <img src="https://drive.usercontent.google.com/download?id=1LSuejbfVaPKbo1eZG55CfqKpzEkReT01"/>
 <h1>
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" width="40" align="middle">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" width="50" align="middle">
   </picture>
   Hasibur Rahman
 </h1>
@@ -22,7 +22,7 @@
 <!-- EDUCATION -->
 <h3>
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40" align="middle">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40">
   </picture>
   Education :
 </h3>
