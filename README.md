@@ -65,6 +65,10 @@ Dhaka, Bangladesh <br>
 <hr>
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" width="70">
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
@@ -83,7 +87,7 @@ Dhaka, Bangladesh <br>
 
 <!-- ENDING -->
 <hr>
-<p align="center">
-  <b>ON A MISSION</b>
-</p>
+<h4 align="center">
+  Still Learning,&nbsp; Still Building
+</h4>
 <hr>
