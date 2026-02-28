@@ -51,18 +51,16 @@ Dhaka, Bangladesh <br>
 <!-- ICONS -->
 <h2>
   <picture>
-    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="45" align="middle">
+    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="40" align="middle">
   </picture>
   
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,php,py"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,php,py"/></a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm"/></a>
 </p>
 <hr>
 
