@@ -26,12 +26,10 @@
   </picture>
   Education :
 </h3>
-<p>
-  <b>B.Sc. in Computer Science & Engineering</b> <br>
-  United International University <br>
-  Dhaka, Bangladesh <br>
-  2023 – Present
-</p>
+<b>B.Sc. in Computer Science & Engineering</b> <br>
+United International University <br>
+Dhaka, Bangladesh <br>
+2023 – Present
 </details>
 
 <a href="https://www.linkedin.com/in/hrrryuk">
@@ -42,7 +40,6 @@
 &nbsp;
 <a href="mailto:hrifat2320004@bscse.uiu.ac.bd">
   <img src="https://img.shields.io/badge/💬%20Send%20Message-C5221F?style=&logo=&logoColor=""></a>
-
 <hr>
 
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Languages & IDEs
