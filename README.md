@@ -39,7 +39,7 @@ Dhaka, Bangladesh <br>
 <a href="https://www.instagram.com/hasiibur.hi">
   <img src="https://img.shields.io/badge/Instagram-E1306C?&style=&logo=&logoColor=""></a>
 &nbsp;
-<a href="mailto:hrifat2320004@bscse.uiu.ac.bd">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrifat2320004@bscse.uiu.ac.bd">
   <img src="https://img.shields.io/badge/💬%20Send%20Message-C5221F?style=&logo=&logoColor=""></a>
 <hr>
 
