@@ -1,7 +1,7 @@
 <img src="https://drive.usercontent.google.com/download?id=1LSuejbfVaPKbo1eZG55CfqKpzEkReT01"/>
 <h1>
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" width="40">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" width="40" align="middle">
   </picture>
   Hasibur Rahman
 </h1>
@@ -22,7 +22,7 @@
 <!-- EDUCATION -->
 <h3>
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40" align="middle">
   </picture>
   Education :
 </h3>
@@ -41,6 +41,13 @@ Dhaka, Bangladesh <br>
 <a href="mailto:hrifat2320004@bscse.uiu.ac.bd">
   <img src="https://img.shields.io/badge/💬%20Send%20Message-C5221F?style=&logo=&logoColor=""></a>
 <hr>
+
+<h2>
+  <picture>
+    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle">
+    Languages & IDEs
+  </picture>
+</h2>
 
 ## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Languages & IDEs
 <p align="center">
