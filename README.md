@@ -48,6 +48,24 @@ Dhaka, Bangladesh <br>
   <img src="https://img.shields.io/badge/💬%20Send%20Message-C5221F?style=&logo=&logoColor=""></a>
 <hr>
 
+<hr>
+<div align="center">
+  <table>
+    <tr></tr>
+      <td width="40%" align="center" valign="top">
+        <img src="https://github.com/dhruvin-sarkar/dhruvin-sarkar/blob/main/img/image.png" alt="ASCII Art Portrait" width="95%" />
+      </td>
+      <td width="60%" align="center" valign="top">
+        <h3>&nbsp</h3>
+        <a href="https://git.io/streak-stats">
+          <img src="https://nirzak-streak-stats.vercel.app?user=dhruvin-sarkar&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<hr>
+
 <!-- LANGUAGES & IDE -->
 <h2>
   <picture>
@@ -99,24 +117,6 @@ Dhaka, Bangladesh <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40" width="52" alt="heroku logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
-</div>
-
----
-
-<div align="center">
-  <table>
-    <tr></tr>
-      <td width="40%" align="center" valign="top">
-        <img src="https://github.com/dhruvin-sarkar/dhruvin-sarkar/blob/main/img/image.png" alt="ASCII Art Portrait" width="95%" />
-      </td>
-      <td width="60%" align="center" valign="top">
-        <h3>&nbsp</h3>
-        <a href="https://git.io/streak-stats">
-          <img src="https://nirzak-streak-stats.vercel.app?user=dhruvin-sarkar&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- ENDING -->
