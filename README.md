@@ -1,4 +1,7 @@
+<!-- BANNER -->
 <img src="https://drive.usercontent.google.com/download?id=1LSuejbfVaPKbo1eZG55CfqKpzEkReT01"/>
+
+<!-- NAME -->
 <h1>
   <picture>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" width="50" align="middle">
@@ -6,6 +9,7 @@
   Hasibur Rahman
 </h1>
 
+<!-- TAG -->
 **`Digital Craftsman`**
 <details>
 <summary></summary>
@@ -33,6 +37,7 @@ Dhaka, Bangladesh <br>
 2023 – Present
 </details>
 
+<!-- SOCIAL -->
 <a href="https://www.linkedin.com/in/hrrryuk">
   <img src="https://img.shields.io/badge/Linkedin-0077B5?style=&logo=&logoColor="></a>
 &nbsp;
@@ -43,14 +48,13 @@ Dhaka, Bangladesh <br>
   <img src="https://img.shields.io/badge/💬%20Send%20Message-C5221F?style=&logo=&logoColor=""></a>
 <hr>
 
+<!-- LANGUAGES & IDE -->
 <h2>
   <picture>
-    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle">
+    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="45" align="middle">
     Languages & IDEs
   </picture>
 </h2>
-
-## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Languages & IDEs
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,php,py"/>
@@ -60,6 +64,25 @@ Dhaka, Bangladesh <br>
     <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm"/>
   </a>
 </p>
+<hr>
+
+<!-- STACK & TOOLS -->
+<h2>
+  <picture>
+    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="45" align="middle">
+    Tech Stack & Tools
+  </picture>
+</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,cloudflare,figma,firebase"/>
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
+  </a>
+</p>
+<hr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -76,27 +99,6 @@ Dhaka, Bangladesh <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="40" width="52" alt="heroku logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> Tech Stack & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,cloudflare,figma,firebase"/>
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,maven,sqlite,selenium,sklearn,wordpress,linux"/>
-  </a>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> LeetCode Stats
-
-<div align="center">
-  <img src="https://github.com/dhruvin-sarkar/dhruvin-sarkar/blob/main/img/Leetcode.png" alt="LeetCode Profile" width="90%" />
 </div>
 
 ---
