@@ -103,8 +103,6 @@ Dhaka, Bangladesh <br>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="50" align="middle"> GitHub Stats
-
 <div align="center">
   <table>
     <tr></tr>
@@ -121,8 +119,9 @@ Dhaka, Bangladesh <br>
   </table>
 </div>
 
----
-
-<p align="center"><b>on a mission</b></p>
-
----
+<!-- ENDING -->
+<hr>
+<p align="center">
+  <b>ON A MISSION</b>
+</p>
+<hr>
