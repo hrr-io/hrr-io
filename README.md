@@ -23,7 +23,7 @@
 <!-- EDUCATION -->
 <h3>
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="35">
   </picture>
   Education :
 </h3>
