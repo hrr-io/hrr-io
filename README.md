@@ -16,13 +16,14 @@
   </picture>
   A 24 years old Data Science & Machine Learning Enthusiast from Bangladesh.
 </h3>
+<!-- GIF -->
 <picture>
   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" align="right" height="" width="500">
 </picture>
 <!-- EDUCATION -->
 <h3>
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30">
   </picture>
   Education :
 </h3>
