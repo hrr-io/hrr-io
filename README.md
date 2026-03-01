@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img src="https://drive.usercontent.google.com/download?id=1LSuejbfVaPKbo1eZG55CfqKpzEkReT01"/>
+<!-- <img src="https://drive.usercontent.google.com/download?id=1LSuejbfVaPKbo1eZG55CfqKpzEkReT01"/> -->
 
 <!-- ANIMATED EMOJI: https://googlefonts.github.io/noto-emoji-animation/ -->
 <!-- NAME -->
