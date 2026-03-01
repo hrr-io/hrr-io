@@ -61,6 +61,7 @@ Dhaka, Bangladesh <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,php,py"/></a>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,html,css,mysql,php,py">
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm"/></a>
