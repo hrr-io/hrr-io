@@ -5,7 +5,7 @@
 <!-- NAME -->
 <h1>
   <picture>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" width="50" align="middle">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" width="50" align="top">
   </picture>
   Hasibur Rahman
 </h1>
