@@ -53,7 +53,7 @@ Dhaka, Bangladesh <br>
 <hr>
 
 <!-- ICONS -->
-<h2>
+<h2 align="center">
   <picture>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" width="40" align="middle">
   </picture>
