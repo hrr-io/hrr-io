@@ -1,6 +1,7 @@
 <!-- BANNER -->
 <img src="https://drive.usercontent.google.com/download?id=1LSuejbfVaPKbo1eZG55CfqKpzEkReT01"/>
 
+<!-- ANIMATED EMOJI: https://googlefonts.github.io/noto-emoji-animation/ -->
 <!-- NAME -->
 <h1>
   <picture>
@@ -54,7 +55,7 @@ Dhaka, Bangladesh <br>
 <!-- ICONS -->
 <h2>
   <picture>
-    <img src="https://drive.usercontent.google.com/download?id=1gqFemY4rN8-BVEPJIB9_-n0sa-w1wGt8" width="40" align="middle">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" width="40" align="middle">
   </picture>
 </h2>
 <p align="center">
