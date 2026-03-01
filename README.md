@@ -11,6 +11,8 @@
 
 <!-- TAG -->
 **`Digital Craftsman`**
+
+<!-- ABOUT -->
 <details>
 <summary></summary>
 <!-- INTRO -->
@@ -31,7 +33,8 @@
   </picture>
   Education :
 </h3>
-<b>B.Sc. in Computer Science & Engineering</b> <br>
+<b>B.Sc. in Computer Science & Engineering</b>
+<br>
 United International University <br>
 Dhaka, Bangladesh <br>
 2023 – Present
@@ -51,9 +54,8 @@ Dhaka, Bangladesh <br>
 <!-- ICONS -->
 <h2>
   <picture>
-    <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="40" align="middle">
+    <img src="https://drive.usercontent.google.com/download?id=1gqFemY4rN8-BVEPJIB9_-n0sa-w1wGt8" width="40" align="middle">
   </picture>
-  
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -67,7 +69,6 @@ Dhaka, Bangladesh <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-plain.svg" width="70">
 </div>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"/>
